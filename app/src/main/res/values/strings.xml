@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="title_string">Quadratic Calculator</string>
+    <string name="numA_label">A value</string>
+    <string name="numB_label">B value</string>
+    <string name="numC_label">C value</string>
+    <string name="answer1_content_string">X value</string>
+    <string name="answer2_content_string">X value</string>
+    <string name="calc_button_label">Calculate the X Values</string>
+    <string name="clear_button_label">Clear the Values</string>
+</resources>
